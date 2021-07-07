@@ -1,0 +1,45 @@
+body {
+    background-color: #E5E5E5;
+}
+
+.navbar img {
+    width: 40px;
+}
+
+.nav-item:not(.img) {
+    padding-top: 6px;
+}
+
+.main {
+    background-color: white;
+}
+
+.top-player img {
+    width: 56px;
+    margin-right: 6px;
+}
+
+.card {
+    border: none;
+}
+
+.card-title {
+    height: 68px;
+    width: 163px;
+    left: 508px;
+    top: 507px;
+    border-radius: nullpx;
+
+}
+
+.top-blog .card-body {
+    padding-top: 0;
+}
+
+.nounderline {
+    text-decoration: none;
+}
+
+.checked {
+    color: orange;
+}
